@@ -40,7 +40,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com/javarush/telegram/TinderBoltApp</mainClass>
+                            <mainClass>com.javarush.telegram.TinderBoltApp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
